@@ -1,16 +1,30 @@
-### Hi there 👋
+# Olá, sou Matheus Lima!
 
-<!--
-**MathsLima/MathsLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/MathsLima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathsLima&show_icons=true&theme=dark" />
+</a>
 
-Here are some ideas to get you started:
+<a href="https://github.com/MathsLima">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathsLima&layout=compact&theme=dark" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contato:
+
+<p align="left">
+<a href="/https://linkedin.com/in/matheus-silva-de-lima/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="stefanilima/" height="30" width="40" /></a>
+<a href="/hhttps://matheuslimainterne.wixsite.com/matheuslima/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="http://stefanilima.com.br/" height="30" width="40" /></a>
+</p>
+
+### Linguagens e ferramentas:
+<div> 
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<div> 
+
+
