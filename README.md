@@ -1,10 +1,6 @@
 # Hello, I'm Matheus Lima!
 
 <a href="https://github.com/MathsLima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MathsLima&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github.com/MathsLima">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathsLima&layout=compact&theme=dark" />
 </a>
 
