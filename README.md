@@ -1,9 +1,5 @@
 # Hello, I'm Matheus Lima!
 
-<a href="https://github.com/MathsLima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathsLima&layout=compact&theme=dark" />
-</a>
-
 ### Contact:
 <div> 
   <a href="https://linkedin.com/in/matheus-silva-de-lima" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
